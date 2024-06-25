@@ -1,0 +1,12 @@
+/* src/DmnModelerComponent.css */
+.dmn-js-parent {
+    border: solid 1px #ccc;
+    height: 500px;
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    margin-top: 10px;
+  }
+  
